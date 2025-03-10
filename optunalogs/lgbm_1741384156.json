@@ -1,0 +1,15 @@
+{
+    "best_score": 0.10971369819638019,
+    "best_params": {
+        "n_estimators": 2341,
+        "learning_rate": 0.021177726454336018,
+        "num_leaves": 6,
+        "min_child_samples": 13,
+        "min_sum_hessian_in_leaf": 0.0031049880304924817,
+        "min_gain_to_split": 0.0026335087408249597,
+        "reg_alpha": 1.2191398606733626e-05,
+        "reg_lambda": 1.0405371081185943,
+        "path_smooth": 0.020588193660758824,
+        "extra_trees": true
+    }
+}
